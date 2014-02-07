@@ -26,4 +26,3 @@ Chu chu~
 - Show percentage for W/L ratio.
 - /ignore existing as a command... And /ignorelist to see whose on your ignore list. And /help for the obvious.
 - /whois [insert username here] (To find someone if they're online or not, as well as whether they're currently in an ongoing game or not
-- 
