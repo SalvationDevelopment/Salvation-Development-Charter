@@ -3,7 +3,7 @@ Must Haves:
 
 * Manual Hand Shuffle button. (I won't even bother if this isn't implented, seriously)
 
-* AI function - Preferbly a more intelligent one than Percy's
+* AI function - Preferbly a more intelligent one than Percy's (with a button for it!)
 
 * Specatators being able to join on-going Duels
 
