@@ -10,7 +10,7 @@ Mew's list of desired features!:
 
 * More options to prevent misclicks, such as being able to cancel out when the simulator is asking what monsters would you like to use for a Tribute Summon, Synchro Summon, Xyz Summon, etc
 
-* A feature that allows matching on the server ignoring the server database/scripts and using local files only (As in LAN). To allow fully custom duels without Hamachi.
+* A feature that allows matching on the server ignoring the server database/scripts and using local files only (As in LAN). To allow fully custom duels without Hamachi. Allowin you to switchc to a secondary database file might be helpful.
 
 * Return of "Copy Deck List" from the Deck Builder.
 
