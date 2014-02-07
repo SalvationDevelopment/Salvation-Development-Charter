@@ -7,6 +7,19 @@ Get the fucker running:
 * WordPress for site management
 * A Logical and high usiablity forum
 
+Fix the staff:
+--
+> Current staff is passinate yet frozen in fear or lack of self worth with in the group. Also there are other issues.
+* Each member is to learn HTML, CSS, JavaScript, and Networking Basics
+* Each member will learn to create a development area and deploy a copy of the system 
+* Dont hire anyone that cant install WAMP or write an MD file on Github.
+* Dont hire anyone that wont engage me in proper conversation on introduction or respond within 48hrs of being addressed
+* Dont hire anyone in the YGOrg or from DN unless someone is gonna spend 3 weeks beating the stupid out of them then teach them social basics.
+* Get the staff to feel that they are peers and can trust each other on a personal level.
+* I need to stop doing all the work
+* Teach how critical the stuff I can not do and ask them to do is (better)
+
+
 Dont make the mistakes of DuelingNetwork:
 --
 > DN has done many things correctly but it has done many things wrong that have hurt the community. 
