@@ -1,4 +1,5 @@
 Must Haves:
+---
 
 * Manual Hand Shuffle button. (I won't even bother if this isn't implented, seriously)
 
@@ -16,9 +17,9 @@ Must Haves:
 
 * Ability to Host games with/without Password
 
----
 
 Less Important, But Super Fun:
+---
 
 * Turbo Duels
 
@@ -34,10 +35,8 @@ Less Important, But Super Fun:
 
 * Tournament Mode
 
-
----
-
 Most Likely Impossible:
+---
 
 * RPG elements, mimicking the old Yugioh Online games. Even a YO3-ish system would be great and a lot easier to make than YO2.
 
