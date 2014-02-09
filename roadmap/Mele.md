@@ -10,7 +10,6 @@
       IN game chat controled threw ygo pro options
   - IRC is pretty much covered all commands alrdy using light irc for irc connections  gives us the leway we need for security for trouble makers
  but it allow allows are users to connect via our page or a mirc cilent 
-
   -- Down sides
    - inability go mobil which can be rectified as we evolve
    - There is still a problem fourm intergration
