@@ -15,3 +15,4 @@ when it comes to the point of us needing to hire more mods they will go through 
 side games...
 =========
 I just thought of the idea with Trixies card effects idea as well as the RPG idea that we make a side game where we start with a structure deck of our choosing, and we go through the game, each duel we win we get a booster and some game cash. each booster has a chance to get a rare, super rare, ultra, ghost etc. this game will have trades and a shop to buy/sell cards. we can make our own decks off that, just a fun thing to try out and it gets rid of the net decks and makes people think about what they can build with random cards
+AGAIN THIS IS NOT A PRIORITY THING
