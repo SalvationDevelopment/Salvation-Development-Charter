@@ -1,4 +1,4 @@
-Default Springs based on number of times mentioned. Each member is to rework thier order and post in this folder what they think the order should be.
+Each person is to reorder the following list and re-upload it as a new file with thier names as the title in this folder.
 
 Sprints
 ==
