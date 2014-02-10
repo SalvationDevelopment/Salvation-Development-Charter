@@ -1,0 +1,10 @@
+- Have the ability to personalize the duel interface
+- Have a chess program for when the duel server is full
+- Be able to switch the view position from your side of the feild to your opponents without seing their hand so you can get a different perspective of the duel
+- Personalize music 
+- Semi automated tournament system with round robin and team setups
+- Fun little music during the rock paper siczors match and if you tie 3 times the music gets really intense
+- Being able to highlight multiple cards in a duel or deck edit so you dont have to read a bunch of effects and lose track of the last card highlighted
+- Costomizable profile pages
+- Reward based system for ranked duels, EXE: you win 100 ranked duels and you get 100 points to costomize something etc
+- Having a choice to have the duel in a popup so you can still navigate other webpages without accidently closing it
