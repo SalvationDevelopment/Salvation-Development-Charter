@@ -14,4 +14,4 @@
    - inability go mobil which can be rectified as we evolve
    - There is still a problem fourm intergration
 
-also went a game error occurs and we have it so it creats a error report for us so we can go in and look at errors every once in awhile see what is actually not working properly
+also when a game error occurs can we have it so it creats a error report for us so we can go in and look at errors every once in awhile see what is actually not working properly
