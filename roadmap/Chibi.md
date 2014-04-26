@@ -23,3 +23,5 @@ Mew's list of desired features!:
 * Being able to check the graveyard when a card like Pot of Duality or Dark World Dealings is resolving.
 
 * Being able to use Battle Phase quick effects like ignitions (next to attack and stuff)
+
+* Being able to watch replays with player hands hidden or revealed, with a button or checkbox. For spectating.
