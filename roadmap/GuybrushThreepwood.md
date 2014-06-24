@@ -24,14 +24,14 @@ In-Duel
 - Watchers and watchers chat
 - REAL TAG DUELING with 4 zones and correct rulings would be a big plus and something the others don�t have.
 - Admins should be able to enter games and be able to pause timers/fix game states/give game losses/etc if called on. Even in automatic. Since rulings should be kept up to date there shouldn�t be a huge need for this but having an admin or mod or whatever the position may be, able to fix stuff would be a huge things against people who really dislike bad rulings. Since bad rulings are inevitable.
----
+
 ###Manual vs Automatic
 - Players should be given the choice for manual vs. automatic
 - Rulings should be handled via a separate rulings channel and not calling a judge
 - Judges could still be there in cases where players refuse to comply, stall, or harass.
 - If we don�t have enough staff, possible that manual is for unrated duels only. There should still be a rulings channel, but staff intervention would be reduced.
 - For automatic, we would need staff who know about OCG rulings that can interpret things for us. Similar to what Pharaoh Atem does for DN.
----
+
 ###Tournaments
 - Tournaments should be integrated into the client
 - There should be a spot on the screen for �Tournament starting now� with listed rules such as format (Single-elim, TCG/OCG, etc) and a button people can click to join
@@ -39,7 +39,7 @@ In-Duel
 Would be nice (but not essential)
 - CCG Support, possibly through a downloadable client instead of browser-based
 - Separate card collection format, earning packs instead of having all available immediately
---- 
+
 ###Donations
 - Could be there to help support server costs.
 - Donation benefits could include custom sleeves/avatars like DN possible.
