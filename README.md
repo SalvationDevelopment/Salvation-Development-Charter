@@ -19,6 +19,10 @@ Notes from the development room. Explains the company culture, must see and read
 
 -Trixie
 
+> "...you have a decision to make. 1. Let it go, move on, join the chat and live it up. 2. Confront the people and come to a positive resolution or 3. Simply don't come here. All 3 of those choices are yours. Coming here and being an asshole just because you can and you're still mad about what happened isn't one of them."
+
+-Ryder
+
 > Oh believe me, I understand that. In a different comment I made the point that player->dev harassment is widespread and not limited to one particular demographic. This comment tree was specifically addressing this week's drama, so I focused my reply on the misogynistic angle.
 I'm pretty sensitive to attacks on female game designers, because my wife is one and she's had some pretty bad experiences (though nothing compared to what happened this week). The industry and the community are actively hostile towards women in gaming, and it breaks my heart because my wife worked her ass off to get where she is and she's still treated like a second-class citizen (at best) or a non-person (at worst). 
 
