@@ -50,10 +50,10 @@ Actual Rules
 
 The following are the only core rules and policies.
 
-1.) Jamezs "AccessDenied" Gladney is singularly incharge. Everyone else is an equal under him.
-2.) SalvationDevelopment is specially commited to making women comfortable in the Yu-Gi-Oh community. Thus if she so cares, a women may contact the staff and be placed in a position of realitive power above normal users and below staff solely on the basis of gender to enable them to protect themselves and guide the community mindset.
+- 1.) Jamezs "AccessDenied" Gladney is singularly incharge. Everyone else is an equal under him.
+- 2.) SalvationDevelopment is specially commited to making women comfortable in the Yu-Gi-Oh community. Thus if she so cares, a women may contact the staff and be placed in a position of realitive power above normal users and below staff solely on the basis of gender to enable them to protect themselves and guide the community mindset.
     - [Women tend to see the larger relationship picture](http://www.psychologytoday.com/blog/ironshrink/201403/why-men-feel-outmatched-during-arguments-women), in general. They have better insight into why issues are happening.
     - Limits "white knight wars", the women in our community are very capable. Thus this behavior is a mind game.
     - Limits verification harassment to a single at will instance with trusted and respected community leaders.
-3.) If there is a problem with the software file a bug.
-4.) Do not take work you can not complete in a timely manner, or show progress of completing.
+- 3.) If there is a problem with the software file a bug.
+- 4.) Do not take work you can not complete in a timely manner, or show progress of completing.
