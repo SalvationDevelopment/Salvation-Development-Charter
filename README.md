@@ -3,6 +3,20 @@ Culture
 
 Notes from the development room. Explains the company culture, must see and read.
 
+**General**
+- People are the most important asset.
+- Be honest, with your coworkers and self.
+- Make the right thing to do the easiest thing to do.
+- **Solve problems by fixing the environment that allowed them to occur.**
+- It doesn't matter when or how much you work, only that your peers trust you and feel like you are contributing.
+- Document everything.
+- Dont hire people, people will hire themselves.
+- If you work in the dark and by yourself, you are working for nothing.
+- Unicorns, unicorns everywhere.
+
+**Generalization of the Personnel**
+A collection of the top to middle socially adjusted mildly depressed YGO Players world wide. They are dicks, perverted, spastic, nerdy, anxious, akward, patient, helpful, innovative, and conserned with the mental well being and happiness of those around them. They possess great problem solving and communication skills. They are passionate about Yu-Gi-Oh! and connecting with others.
+
 **Articles**
 * [System justification](http://en.m.wikipedia.org/wiki/System_justification)
 * [Wicked problem](http://en.wikipedia.org/wiki/Wicked_problem)
@@ -12,6 +26,7 @@ Notes from the development room. Explains the company culture, must see and read
 
 **Quotes**
 > "Do not run, do not back down, face every issue and do not rest till you work it out with the people here."
+> "Anarchy works wonderfully in a small group of individuals with a high level of trust, the ygo community is not such a group of people."
 
 -Access
 
