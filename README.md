@@ -8,6 +8,8 @@ The following are the only core rules and policies, in no particular order.
     - Pay attention for, **"... thats an order."** It significes invoking this clause.
 - If there is a problem with the software file a bug.
 - Do not take work you can not complete in a timely manner, or show progress of completing.
+- We are making software for users, not developers. Dont make things that are locked to one operating system, lack ui, require many dependencies or require crafted non-default configuration.
+    - Setup should be as few steps as possible.
 
 
 Culture
