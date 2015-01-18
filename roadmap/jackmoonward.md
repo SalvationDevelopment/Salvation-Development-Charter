@@ -1,1 +1,13 @@
-I have been playing the game of Yugioh nearly since it's time of birth in the United States. The game has always held a grand place in my life and I know this is the same for a vast majority who played at that time too. However over the years I've noticed that the game has become inconsistent year by year with how accessible it is for those who either can't access the game or simply just want to test their prowess beforehand. I want Salvation to be exactly as it sounds, a salvation area for those who simply want a better simulator for the game than we've been given before. I don't ask for much, not even in recognition. All I desire is for Salvation to be enjoyed for the community by the community. 
+===
+- A stabilized community
+- A user friendly interface to even those new to the game
+- Dedicated members 
+- "Troubleshooting newly scripted cards"
+- A 2v1 mode
+- More customization to the interface
+- The ability to revert a move incase of accidental mouse clicks
+- Better implication of PSCT "when" and "if" on certain cards
+- Ranking system
+- Anime cards having their own banlist
+- The ability to host a duel but only allow users that meet the conditions that you set such as *No Extra deck* *No Pendulum* and such instead of just having a description above your room like on DuelingNetwork.
+- Multiple languages
