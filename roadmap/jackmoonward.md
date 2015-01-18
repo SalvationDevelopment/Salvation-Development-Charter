@@ -1,0 +1,13 @@
+===
+- A stabilized community
+- A user friendly interface to even those new to the game
+- Dedicated members 
+- "Troubleshooting newly scripted cards"
+- A 2v1 mode
+- More customization to the interface
+- The ability to revert a move incase of accidental mouse clicks
+- Better implication of PSCT "when" and "if" on certain cards
+- Ranking system
+- Anime cards having their own banlist
+- The ability to host a duel but only allow users that meet the conditions that you set such as *No Extra deck* *No Pendulum* and such instead of just having a description above your room like on DuelingNetwork.
+- Multiple languages
