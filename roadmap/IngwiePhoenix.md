@@ -2,6 +2,26 @@
 
 In the following documentation, I would like to remark wanted features, as well features I will work on implementing int he future as well. It should be noted that my main platform is mac OS X with access to a Linux server and an occassional Windows XP VM.
 
+## Me
+- OS: Mac OS X 10.10 / VM: WinXP (MSVC 6), Win7 (MSVC 2010)
+- IDE: [Atom.io](http://atom.io) + Terminal
+- Languages:
+* PHP (5.4+)
+* JavaScript (Browser, NodeJS), [OJ](https://github.com/musictheory/oj)
+- I use [connect-oj](https://github.com/IngwiePhoenix/connect-oj) to run it in a browser.
+* C, C++, Objective-C, Objective-C++
+* CSS/3, HTML/5
+* [ObjectScript](https://github.com/unitpoint/objectscript)
+- Contact:
+* Skype: wlaningwie
+* Email: ingwie2000@gmail.com
+* WWW: http://ingwie.me
+* I have a legally registered, tiny company called "Ingwie I/O"
+- Registered in: Germany
+- Dedication: Open-&Closed Source development
+- Website is currently non-existent.
+* You can always ask me to test something on a non-windows system.
+
 ## General
 - A news blog with some status updates on a frontpage tells people that the project is alive.
 
@@ -48,3 +68,7 @@ In the following documentation, I would like to remark wanted features, as well 
 ### General
 - Abandon binary data from the Git repository. A user would otherwise download more junk (= files for other platforms) than they need.
 - To create a development environment, offer a script to fetch needed/required resources. Can be simply done using custom NPM scripts.
+
+
+-----
+PS: I don't bite. :)
