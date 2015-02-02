@@ -3,8 +3,10 @@ To become a developer with us you need to learn one of the following sections, a
 
 ##Web Development
 ###HTML
+* [Tutorial](http://www.w3schools.com/html/html_intro.asp)
 
 ###CSS
+* [Tutorial](http://www.w3schools.com/css/css_intro.asp)
 
 ###JS
 * [Douglas Crockford (Funny)](http://www.jblotus.com/2013/01/05/my-programming-heroes-douglas-crockford/)
@@ -15,18 +17,26 @@ To become a developer with us you need to learn one of the following sections, a
 
 ##Database and Card Scripting
 ##Lua
+* [Programming in Lua](http://www.lua.org/pil/contents.html)
+* [Reference Manual](http://www.lua.org/manual/5.3/manual.html)
 
 ##SQL
+* [Tutorial](http://www.w3schools.com/sql/sql_intro.asp)
+* [Different SQL JOINs](http://stackoverflow.com/questions/38549/difference-between-inner-and-outer-joins)
 
 ##YGOPro API
 
 ###Internals
 ##C++
+* [Tutorial](http://www.cplusplus.com/doc/tutorial/)
+* [The Rook's Guide to C++](https://github.com/jeremyhansen/rooksguide-cplusplus/releases)
+* [Matters Computational](http://www.jjj.de/fxt/#fxtbook)
 
 ##Go (Language)
+* [A Tour of Go](http://tour.golang.org/)
+* [How to write Go code](http://golang.org/doc/code.html)
+* [Effective Go](http://golang.org/doc/effective_go.html)
 
 ##C#
-
-
-
-
+* [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
+* [C# Programming](http://en.wikibooks.org/wiki/C_Sharp_Programming)
