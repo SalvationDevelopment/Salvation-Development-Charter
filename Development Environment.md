@@ -4,6 +4,10 @@ IDE
 ===
 * Visual Studio 2012 (C++, C#)
 * Brackets.io (HTML, CSS, JavaScript, JSON, INI)
+  - jshint
+  -  Brackets Git
+  -  Beautify
+  -  Code Folding
 * an SQLite3 editor (sqlite, CDB)
 
 Language Frameworks
