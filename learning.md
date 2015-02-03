@@ -11,8 +11,11 @@ To become a developer with us you need to learn one of the following sections, a
 ###JS
 * [Douglas Crockford (Funny)](http://www.jblotus.com/2013/01/05/my-programming-heroes-douglas-crockford/)
 * [JavaScript The Right Way](http://jstherightway.org/)
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [Google JavaScript Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
 ###JS-Node.js
+* [Beginners Guide](http://www.nodebeginner.org/)
 * [Read the Documentation Damnit!](http://nodejs.org/api/)
 
 ##Database and Card Scripting
@@ -30,12 +33,14 @@ To become a developer with us you need to learn one of the following sections, a
 ##C++
 * [Tutorial](http://www.cplusplus.com/doc/tutorial/)
 * [The Rook's Guide to C++](https://github.com/jeremyhansen/rooksguide-cplusplus/releases)
+* [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
 * [Matters Computational](http://www.jjj.de/fxt/#fxtbook)
 
 ##Go (Language)
 * [A Tour of Go](http://tour.golang.org/)
 * [How to write Go code](http://golang.org/doc/code.html)
 * [Effective Go](http://golang.org/doc/effective_go.html)
+* [Fundamentals of concurrent programming](http://www.nada.kth.se/~snilsson/concurrency/)
 
 ##C#
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
