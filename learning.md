@@ -12,7 +12,6 @@ To become a developer with us you need to learn one of the following sections, a
 * [Douglas Crockford (Funny)](http://www.jblotus.com/2013/01/05/my-programming-heroes-douglas-crockford/)
 * [JavaScript The Right Way](http://jstherightway.org/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
-* [Google JavaScript Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
 ###JS-Node.js
 * [Beginners Guide](http://www.nodebeginner.org/)
