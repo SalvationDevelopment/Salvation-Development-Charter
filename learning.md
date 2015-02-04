@@ -36,6 +36,7 @@ To become a developer with us you need to learn one of the following sections, a
 * [Matters Computational](http://www.jjj.de/fxt/#fxtbook)
 
 ##Go (Language)
+* [Go at Google](https://talks.golang.org/2012/splash.article)
 * [A Tour of Go](http://tour.golang.org/)
 * [How to write Go code](http://golang.org/doc/code.html)
 * [Effective Go](http://golang.org/doc/effective_go.html)
