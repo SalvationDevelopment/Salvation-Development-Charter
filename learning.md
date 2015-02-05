@@ -18,6 +18,9 @@ To become a developer with us you need to learn one of the following sections, a
 * [Read the Documentation Damnit!](http://nodejs.org/api/)
 
 ##Database and Card Scripting
+* [Jackmoonward's tutorial](http://www.ygopro.co/Forum/tabid/95/g/posts/t/120/Adding-cards-to-YGOPro--Tutorial----Scripting-video-Added#post381) - Video: [Database](https://www.youtube.com/watch?v=XePYKHv4g1o), [Script](https://www.youtube.com/watch?v=V_6qse-hSOg)
+* [Outlaw1994's book](http://www.mediafire.com/download/ue8seiulh20r71a/book.pdf)
+
 ##Lua
 * [Programming in Lua](http://www.lua.org/pil/contents.html)
 * [Reference Manual](http://www.lua.org/manual/5.3/manual.html)
