@@ -9,6 +9,7 @@ To become a developer with us you need to learn one of the following sections, a
 * [Tutorial](http://www.w3schools.com/css/css_intro.asp)
 
 ###JS
+* [30 Days of JavaScript](http://www.careerist.org/30-concepts-of-javascript-part-1/)
 * [Douglas Crockford (Funny)](http://www.jblotus.com/2013/01/05/my-programming-heroes-douglas-crockford/)
 * [JavaScript The Right Way](http://jstherightway.org/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
