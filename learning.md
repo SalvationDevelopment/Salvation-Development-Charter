@@ -1,6 +1,17 @@
 #Learning
 To become a developer with us you need to learn one of the following sections, and then contiune to learn more sections to work on more parts of the project. It is recommended to do HTML/CSS/JS/JS-node to work on the core of the project. Learn Lua/SQL/YGOPro-API to work on the DB and C++/C#/GO for internals.
 
+##Essentials
+###Github
+Our main means of code and information sharing is Github so you need to learn the core concepts of using and working with it. No matter what language you are using you will have to learn this.
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/index.html)
+* [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+* [GitHub Flow in the Browser](https://help.github.com/articles/github-flow-in-the-browser/)
+* [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
+
+##Markdown
+* [Wikipedia](http://en.wikipedia.org/wiki/Markdown)
+
 ##Web Development
 ###HTML
 * [Tutorial](http://www.w3schools.com/html/html_intro.asp)
@@ -49,3 +60,4 @@ To become a developer with us you need to learn one of the following sections, a
 ##C#
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
 * [C# Programming](http://en.wikibooks.org/wiki/C_Sharp_Programming)
+
