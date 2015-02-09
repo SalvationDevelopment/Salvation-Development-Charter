@@ -23,7 +23,7 @@ To become a developer with us you need to learn one of the following sections, a
 * [Programming in Lua](http://www.lua.org/pil/contents.html)
 * [Reference Manual](http://www.lua.org/manual/5.3/manual.html)
 
-###S#QL
+###SQL
 * [Tutorial](http://www.w3schools.com/sql/sql_intro.asp)
 * [Different SQL JOINs](http://stackoverflow.com/questions/38549/difference-between-inner-and-outer-joins)
 
