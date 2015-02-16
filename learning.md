@@ -28,6 +28,7 @@ Our main means of code and information sharing is Github so you need to learn th
 ###JS-Node.js
 * [Beginners Guide](http://www.nodebeginner.org/)
 * [Read the Documentation Damnit!](http://nodejs.org/api/)
+* [Using Modules](http://nodepatternsbooks.com/books/module-patterns.html)
 
 ##Database and Card Scripting
 ###Lua
