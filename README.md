@@ -45,6 +45,7 @@ A collection of the top to middle socially adjusted mildly depressed YGO Players
 * [Fighting The Community Cancer](https://modelviewculture.com/pieces/leaving-toxic-open-source-communities)
 * [Curbing Online Abuse Isn’t Impossible. Here’s Where We Start](http://www.wired.com/2014/05/fighting-online-harassment/)
 * [The Laws of Github Communication](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
+* [From Fairy to Bad-Ass: Or, How I Found Empowerment with 5 Changes](https://medium.com/@lindsaykohler/from-fairy-to-bad-ass-or-how-i-found-empowerment-with-5-changes-bcddab4c11c7)
 
 **Quotes**
 > "Do not run, do not back down, face every issue and do not rest till you work it out with the people here."
