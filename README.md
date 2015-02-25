@@ -10,6 +10,7 @@ The following are the only core rules and policies, in no particular order.
 - Do not take work you can not complete in a timely manner, or show progress of completing.
 - We are making software for users, not developers. Dont make things that are locked to one operating system, lack ui, require many dependencies or require crafted non-default configuration.
     - Setup should be as few steps as possible.
+- Do not leave the development room in an argumentative state, this signifies the same as abandoning your post. You forfeit administrative privileges and and staff status by doing this.
 
 
 Culture
@@ -53,9 +54,11 @@ A collection of the top to middle socially adjusted mildly depressed YGO Players
 
 -Access
 
+
 > "No one here is worthless and we are going to prove that!"
 
 -Trixie
+
 
 > "...you have a decision to make. 1. Let it go, move on, join the chat and live it up. 2. Confront the people and come to a positive resolution or 3. Simply don't come here. All 3 of those choices are yours. Coming here and being an asshole just because you can and you're still mad about what happened isn't one of them."
 
