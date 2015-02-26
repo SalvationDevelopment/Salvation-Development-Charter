@@ -4,6 +4,7 @@ To become a developer with us you need to learn one of the following sections, a
 ##Essentials
 ###Github
 Our main means of code and information sharing is Github so you need to learn the core concepts of using and working with it. No matter what language you are using you will have to learn this.
+* [Visual Explaination](https://www.youtube.com/watch?v=u12zHGRfiKU)
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/index.html)
 * [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
 * [GitHub Flow in the Browser](https://help.github.com/articles/github-flow-in-the-browser/)
