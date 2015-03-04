@@ -2,6 +2,13 @@
 To become a developer with us you need to learn one of the following sections, and then contiune to learn more sections to work on more parts of the project. It is recommended to do HTML/CSS/JS/JS-node to work on the core of the project. Learn Lua/SQL/YGOPro-API to work on the DB and C++/C#/GO for internals.
 
 ##Essentials
+### Google
+* Learn to use Google
+* Do not be afraid to use Google
+* Absorb all views from a search
+* Google after solving the problem
+* Just Google the answer
+
 ###Github
 Our main means of code and information sharing is Github so you need to learn the core concepts of using and working with it. No matter what language you are using you will have to learn this.
 * [Visual Explaination](https://www.youtube.com/watch?v=u12zHGRfiKU)
