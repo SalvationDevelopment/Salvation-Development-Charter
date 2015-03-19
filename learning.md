@@ -28,6 +28,7 @@ Our main means of code and information sharing is Github so you need to learn th
 * [Tutorial](http://www.w3schools.com/css/css_intro.asp)
 
 ###JS
+* [Learn JavaScript in 12 Minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
 * [TagTree Basics Course](http://tagtree.tv/courses/beginner-javascript-part-1/)
 * [30 Days of JavaScript](http://www.careerist.org/30-concepts-of-javascript-part-1/)
 * [Douglas Crockford (Funny)](http://www.jblotus.com/2013/01/05/my-programming-heroes-douglas-crockford/)
