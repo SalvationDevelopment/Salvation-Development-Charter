@@ -40,6 +40,7 @@ A collection of the top to middle socially adjusted mildly depressed YGO Players
 
 
 **Articles**
+* [Angelina Fabbro: JavaScript Masterclass](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
 * [Homesteading the Noosphere ("Hacker" Behavioral Code")](http://firstmonday.org/ojs/index.php/fm/rt/printerFriendly/1474/1389)
 * [System justification](http://en.m.wikipedia.org/wiki/System_justification)
 * [Wicked problem](http://en.wikipedia.org/wiki/Wicked_problem)
