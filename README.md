@@ -41,6 +41,7 @@ A collection of the top to middle socially adjusted mildly depressed YGO Players
 
 
 **Articles**
+* [Release Earily, Release Often](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html)
 * [Angelina Fabbro: JavaScript Masterclass](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
 * [Homesteading the Noosphere ("Hacker" Behavioral Code")](http://firstmonday.org/ojs/index.php/fm/rt/printerFriendly/1474/1389)
 * [System justification](http://en.m.wikipedia.org/wiki/System_justification)
