@@ -11,6 +11,7 @@ The following are the only core rules and policies, in no particular order.
 - We are making software for users, not developers. Dont make things that are locked to one operating system, lack ui, require many dependencies or require crafted non-default configuration.
     - Setup should be as few steps as possible.
 - Do not leave the development room in an argumentative state, this signifies the same as abandoning your post. You forfeit administrative privileges and and staff status by doing this.
+- Use version control, this is not negotiable.
 
 
 Culture
