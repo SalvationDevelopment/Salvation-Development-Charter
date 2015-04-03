@@ -72,3 +72,7 @@ Our main means of code and information sharing is Github so you need to learn th
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
 * [C# Programming](http://en.wikibooks.org/wiki/C_Sharp_Programming)
 
+
+##Engineering
+Engineering is the hardest part, its the part that does not come 'intuitively', or 'naturally' to people. If anything this is the one part of programming I honestly suggest you go to school for, as soon as a school is made. Sense one doesnt exist,...
+* [From a monolith to micro-services (part 1)](https://medium.com/@urbanmassage/from-a-monolith-to-micro-services-part-1-9e2c4a18c41e)
