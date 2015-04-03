@@ -79,3 +79,5 @@ Engineering is the hardest part, its the part that does not come 'intuitively', 
 * [The Mythical Man-Month](http://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 * [The Cathedral and the Bazaar](http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
 * [The Deadline: A Novel About Project Management](http://www.amazon.com/The-Deadline-Novel-Project-Management-ebook/dp/B006MN4RAS)
+* [Do Not Learn Frameworks. Learn the Architecture.
+](http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture)
