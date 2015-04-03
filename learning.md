@@ -76,3 +76,6 @@ Our main means of code and information sharing is Github so you need to learn th
 ##Engineering
 Engineering is the hardest part, its the part that does not come 'intuitively', or 'naturally' to people. If anything this is the one part of programming I honestly suggest you go to school for, as soon as a school is made. Sense one doesnt exist,...
 * [From a monolith to micro-services (part 1)](https://medium.com/@urbanmassage/from-a-monolith-to-micro-services-part-1-9e2c4a18c41e)
+* [The Mythical Man-Month](http://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+* [The Cathedral and the Bazaar](http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
+* [The Deadline: A Novel About Project Management](http://www.amazon.com/The-Deadline-Novel-Project-Management-ebook/dp/B006MN4RAS)
