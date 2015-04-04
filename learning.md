@@ -16,9 +16,12 @@ Our main means of code and information sharing is Github so you need to learn th
 * [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
 * [GitHub Flow in the Browser](https://help.github.com/articles/github-flow-in-the-browser/)
 * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
+* [Command line basics](http://rogerdudler.github.io/git-guide/)
+* [Pro Git](http://git-scm.com/book/en/v2)
 
 ##Markdown
 * [Wikipedia](http://en.wikipedia.org/wiki/Markdown)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ##Web Development
 ###HTML
@@ -78,6 +81,6 @@ Engineering is the hardest part, its the part that does not come 'intuitively', 
 * [From a monolith to micro-services (part 1)](https://medium.com/@urbanmassage/from-a-monolith-to-micro-services-part-1-9e2c4a18c41e)
 * [The Mythical Man-Month](http://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 * [The Cathedral and the Bazaar](http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
+* [The Pragmatic Programmer](http://blog.codinghorror.com/a-pragmatic-quick-reference/)
 * [The Deadline: A Novel About Project Management](http://www.amazon.com/The-Deadline-Novel-Project-Management-ebook/dp/B006MN4RAS)
-* [Do Not Learn Frameworks. Learn the Architecture.
-](http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture)
+* [Do Not Learn Frameworks. Learn the Architecture.](http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture)
