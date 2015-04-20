@@ -23,7 +23,7 @@ A collection of the top to middle socially adjusted mildly depressed YGO Players
 - Be honest, with your coworkers and self.
 - For the user experience, make the right thing to do the easiest thing to do.
 - **Solve problems by fixing the environment that allowed them to occur.**
-- It doesn't matter when or how much you work, only that your peers trust you and feel like you are contributing.
+- It doesn't matter when or how much you work, only that your peers trust you and feel like you are contributing. Minimum work load is simply doing as asked in a prompt manner.
 - Document everything.
 - Don't hire people, people will hire themselves.
 - If you work in the dark and by yourself, you are working for nothing.
