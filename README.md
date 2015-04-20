@@ -21,7 +21,7 @@ A collection of the top to middle socially adjusted mildly depressed YGO Players
 
 - People are the most important asset.
 - Be honest, with your coworkers and self.
-- Make the right thing to do the easiest thing to do.
+- For the user experience, make the right thing to do the easiest thing to do.
 - **Solve problems by fixing the environment that allowed them to occur.**
 - It doesn't matter when or how much you work, only that your peers trust you and feel like you are contributing.
 - Document everything.
