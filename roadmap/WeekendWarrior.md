@@ -8,6 +8,7 @@ Goals
 > Learn.
 * HTML5
 * JavaScript
+* Where I can help.
 * To take orders.
 * To pay attention.
 * To put things in the right order.
