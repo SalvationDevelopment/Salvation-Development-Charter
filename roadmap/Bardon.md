@@ -6,7 +6,7 @@
 
 * Experimenting with different site management tactics and software like Joomla and Wordpress. 
 
-* Providing input, bug reports and suggestions for advancing the development of the client.
+* Keeping up to date with input, bug reports and suggestions for advancing the development of the client.
 
 * Doing backend planning and development for a conglomerated level of expansion in future. 
 
