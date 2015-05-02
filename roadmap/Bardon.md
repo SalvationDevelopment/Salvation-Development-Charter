@@ -1,16 +1,14 @@
 # My aims for joining:
 
-* A mobile client. Whether its based on YGOpro or something else entirely (like the attempt from Industrial Illusions and YVD), the mobile market is too vacant to ignore this option.
+* Development for a mobile platform.
 
-* Establishing a place that provides all the scattered needs and resources of the YGO community in a singular bundled package. This may include stuff like reviving the Yugioh decks wiki as our own, except more elaborate than the original.
+* Graphical appearance of both the site and the current client at use.
 
-* Work to improve and gradually make both the place and the products visually more impressionable. 
+* Experimenting with different site management tactics and software like Joomla and Wordpress. 
 
-* Have the excuse to further work on current skillset as well as begin practice on newer ones: Graphic Design, HTML/CSS and Site/Content Management (Joomla, Wordpress and various forum software)
+* Providing input, bug reports and suggestions for advancing the development of the client.
 
-* Provide input, bug reports and suggestions for advancing the development of the client.
-
-* To settle unfinished ideas and have the place be a stepping stone to something much bigger. Not very relevent given its current state, but still worth the mention for future.
+* Doing backend planning and development for a conglomerated level of expansion in future. 
 
 # My beliefs:
 * Innovation. Being able to think/consider untouched areas and rather than submitting to the impossible, always aim for the closest thing to it until eventually that mark becomes reachable. The options that are present, the options that were abandoned and the options that were foreseen, being able to acknowledge each as something relevent and balance up the right idea through them. 
