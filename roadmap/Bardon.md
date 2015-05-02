@@ -2,7 +2,7 @@
 
 * Development for a mobile platform.
 
-* Graphical appearance of both the site and the current client at use.
+* Improving the graphical appearance of both the site and the current client at use.
 
 * Experimenting with different site management tactics and software like Joomla and Wordpress. 
 
