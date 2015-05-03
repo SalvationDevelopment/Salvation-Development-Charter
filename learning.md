@@ -38,6 +38,8 @@ Our main means of code and information sharing is Github so you need to learn th
 * [Douglas Crockford (Funny)](http://www.jblotus.com/2013/01/05/my-programming-heroes-douglas-crockford/)
 * [JavaScript The Right Way](http://jstherightway.org/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [JavaScript: The Definitive Guide (.pdf)](http://xue.unalmed.edu.co/~caalvare/poli/doc/Oreilly.JavaScript.The.Definitive.Guide.6th.Edition.Apr.2011.pdf)
+* [Effective JavaScript](http://effectivejs.com/)
 
 ###JS-Node.js
 * [Beginners Guide](http://www.nodebeginner.org/)
