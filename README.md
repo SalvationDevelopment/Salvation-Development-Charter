@@ -17,7 +17,7 @@ The following are the only core rules and policies, in no particular order.
 Culture
 =======
 
-A collection of the top to middle socially adjusted mildly depressed YGO Players world wide. They are dicks, perverted, spastic, nerdy, anxious, akward, patient, helpful, innovative, and conserned with the mental well being and happiness of those around them. They possess great problem solving and communication skills. They are passionate about Yu-Gi-Oh! and connecting with others.
+A collection of the top to middle socially adjusted mildly depressed YGO Players world wide. They are dicks, perverted, spastic, nerdy, anxious, akward, patient, helpful, innovative, and concerned with the mental well being and happiness of those around them. They possess great problem solving and communication skills. They are passionate about Yu-Gi-Oh! and connecting with others.
 
 - People are the most important asset.
 - Be honest, with your coworkers and self.
