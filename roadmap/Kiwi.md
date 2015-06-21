@@ -15,3 +15,5 @@
 - Possible chat filtering(?).
 
 - Chat logs stored on the system, to be accessed even if the window has be closed.
+
+-Ban all aspects of Korean culture, especially pop. No warning needed.
