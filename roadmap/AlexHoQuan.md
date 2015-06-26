@@ -45,7 +45,7 @@ and getting a loss which basically means they loss ELO.
  and upon that player reopening the client, they are automatically connected to the game, otherwise it will replay that you win
  and end the game.
 
-#Aesthestic changes
+##Aesthestic changes
 
 -A Personalizer for in-game elements such as background,sleeves,textures,avatars as well as having a File transfer client(Dropbox) so people can share their files
 (Decks,Artwork,Sleeves,Texture packs,Replays)
