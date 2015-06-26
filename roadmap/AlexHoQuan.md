@@ -3,42 +3,42 @@ This will be my plan to develop this game community further as well as contribut
 
 ####Management
 
--To be able to work in multi-disciplinary teams
+- To be able to work in multi-disciplinary teams
 
--Have each partition to do seperate jobs and give their own contribution for each individual task
+- Have each partition to do seperate jobs and give their own contribution for each individual task
 
--Have imagination and creativy
+- Have imagination and creativy
 
--Management of the Banlisted users of the database
+- Management of the Banlisted users of the database
 
--Enforce the commitment to players to agree the user terms.
+- Enforce the commitment to players to agree the user terms.
 
--Make sure any image/files diffused on the chat are appropriate and respects the agreement.
--The ability to end a game remotely due to misconduct
+- Make sure any image/files diffused on the chat are appropriate and respects the agreement.
+- The ability to end a game remotely due to misconduct
 
 ####Improvements on the software and design
 
--Build up an In-Dept Tutorial for yugioh beginners and people who have artistic desire.
+- Build up an In-Dept Tutorial for yugioh beginners and people who have artistic desire.
 
--An In-Dept tutorial for people who want to script cards and have their own database of cards.
+- An In-Dept tutorial for people who want to script cards and have their own database of cards.
 
--Allowance of customizable custom cards on the server as well as add the Anime based cards from Ygopro Percy.
+- Allowance of customizable custom cards on the server as well as add the Anime based cards from Ygopro Percy.
 
--Adding Customizable Music to the software and let people choose their own song and music
+- Adding Customizable Music to the software and let people choose their own song and music
 
--Seperating the Meta from the non-competitive players and have an ELO based system similar to Checkmate server. (OCG/TCG)
+- Seperating the Meta from the non-competitive players and have an ELO based system similar to Checkmate server. (OCG/TCG)
 
--Availaibility of disabling the Stats shown in the game and or in unranked duels 
+- Availaibility of disabling the Stats shown in the game and or in unranked duels 
 
--Have an alternative dueling mode such as (FFA) with unlimited ammount of players and or example 1v2 ,4v4, 5v5, 6v6)
--Availaibility to have a our own channel room or social tab where people can communicate with each other on a microphone/webcam  
+- Have an alternative dueling mode such as (FFA) with unlimited ammount of players and or example 1v2 ,4v4, 5v5, 6v6)
+- Availaibility to have a our own channel room or social tab where people can communicate with each other on a microphone/webcam  
 that can toggled on and off during game or in settings so people can talk instead of typing.
 
--Addition of a Black list system where people can block people from joining their games.
+- Addition of a Black list system where people can block people from joining their games.
 
--Ability to revert back plays due to people misclicking
+- Ability to revert back plays due to people misclicking
 
--Have a system where people can reconnect to their game state like in League of Legends due to people disconnecting from games 
+- Have a system where people can reconnect to their game state like in League of Legends due to people disconnecting from games 
 and getting a loss which basically means they loss ELO.
 (Useful in rated duels or tournament events) (Example of concept).
 "Your opponent has disconnected, do you wish to wait?"
@@ -47,12 +47,12 @@ and getting a loss which basically means they loss ELO.
 
 ######Aesthestic changes
 
--A Personalizer for in-game elements such as background,sleeves,textures,avatars as well as having a File transfer client(Dropbox) so people can share their files
+- A Personalizer for in-game elements such as background,sleeves,textures,avatars as well as having a File transfer client(Dropbox) so people can share their files
 (Decks,Artwork,Sleeves,Texture packs,Replays)
 
--An very advanced replay manager with aesthetic changes where people can see opponent's sleeves and manage to copy decks or sleeves in specific folder.
+- An very advanced replay manager with aesthetic changes where people can see opponent's sleeves and manage to copy decks or sleeves in specific folder.
 
--Customization Preferences for your opponent as well, such as sounds, covers, and textures.
+- Customization Preferences for your opponent as well, such as sounds, covers, and textures.
 
 ####Marketing
 
