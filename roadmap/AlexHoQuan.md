@@ -1,7 +1,7 @@
 Alex Ho Quan (Tsundere)
 This will be my plan to develop this game community further as well as contributing to the game.I have quite a lot of ideas at the moment but this will be my resume of the totality of the assets that should be implemented.
 
-###Management
+####Management
 
 -To be able to work in multi-disciplinary teams
 
@@ -16,7 +16,7 @@ This will be my plan to develop this game community further as well as contribut
 -Make sure any image/files diffused on the chat are appropriate and respects the agreement.
 -The ability to end a game remotely due to misconduct
 
-###Improvements on the software and design
+####Improvements on the software and design
 
 -Build up an In-Dept Tutorial for yugioh beginners and people who have artistic desire.
 
@@ -54,7 +54,7 @@ and getting a loss which basically means they loss ELO.
 
 -Customization Preferences for your opponent as well, such as sounds, covers, and textures.
 
-###Marketing
+####Marketing
 
 Advertise your game and make a Youtube channel officialy dedicated to tournament games and events.
 
