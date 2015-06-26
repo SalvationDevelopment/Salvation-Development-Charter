@@ -56,11 +56,11 @@ and getting a loss which basically means they loss ELO.
 
 ####Marketing
 
-Advertise your game and make a Youtube channel officialy dedicated to tournament games and events.
+- Advertise your game and make a Youtube channel officialy dedicated to tournament games and events.
 
-Able to stream your tournaments live on Twitch
+- Able to stream your tournaments live on Twitch
 
-Produce Shirt designs with the salvation logo and build a site where can people buy it.
+- Produce Shirt designs with the salvation logo and build a site where can people buy it.
 
 
 
