@@ -32,7 +32,7 @@ This will be my plan to develop this game community further as well as contribut
 
 - Have an alternative dueling mode such as (FFA) with unlimited ammount of players but with a pre-defined limitation or example 1v2 ,4v4, 5v5, 6v6)
 
--  Availability to have a our own channel room or social tab where people can communicate with each other on a microphone/webcam that can toggled on and off during game or in settings so people can talk instead of typing.
+-  Availability to have a our own channel room or social tab where people can communicate with each other on a microphone/webcam that can toggled on and off during game or in settings so people can talk instead of typing. Features could include microphone, avatars, and webcam integration.
 
 - Addition of a Black list system where people can block people from joining their games.
 
@@ -45,7 +45,7 @@ and upon that player reopening the client, they are automatically connected to t
 
 ######Aesthestic changes
 
-- A Personalizer for in-game elements such as background,sleeves,textures,avatars as well as having a File transfer client(Dropbox) so people can share their files
+- A Personalizer for in-game elements such as background,music,sounds,sleeves, and textures as well as having a File transfer client(Dropbox) so people can share their files
 (Decks,Artwork,Sleeves,Texture packs,Replays)
 
 - An very advanced replay manager with aesthetic changes where people can see opponent's sleeves and manage to copy decks or sleeves in specific folder.
