@@ -22,17 +22,17 @@ This will be my plan to develop this game community further as well as contribut
 
 - An In-Dept tutorial for people who want to script cards and have their own database of cards.
 
-- Allowance of customizable custom cards on the server as well as add the Anime based cards from Ygopro Percy.
+- Allowance of customizable custom cards on the server as well as addition of the Anime based cards from Ygopro Percy.
 
 - Adding Customizable Music to the software and let people choose their own song and music
 
 - Seperating the Meta from the non-competitive players and have an ELO based system similar to Checkmate server. (OCG/TCG)
 
-- Availaibility of disabling the Stats shown in the game and or in unranked duels 
+-  Availability of disabling the Stats shown in the game and or in unranked duels 
 
 - Have an alternative dueling mode such as (FFA) with unlimited ammount of players and or example 1v2 ,4v4, 5v5, 6v6)
-- Availaibility to have a our own channel room or social tab where people can communicate with each other on a microphone/webcam  
-that can toggled on and off during game or in settings so people can talk instead of typing.
+
+-  Availability to have a our own channel room or social tab where people can communicate with each other on a microphone/webcam that can toggled on and off during game or in settings so people can talk instead of typing.
 
 - Addition of a Black list system where people can block people from joining their games.
 
@@ -42,8 +42,7 @@ that can toggled on and off during game or in settings so people can talk instea
 and getting a loss which basically means they loss ELO.
 (Useful in rated duels or tournament events) (Example of concept).
 "Your opponent has disconnected, do you wish to wait?"
- and upon that player reopening the client, they are automatically connected to the game, otherwise it will replay that you win
- and end the game.
+and upon that player reopening the client, they are automatically connected to the game, otherwise it will replay that you win and end the game.
 
 ######Aesthestic changes
 
