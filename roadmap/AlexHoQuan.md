@@ -40,8 +40,7 @@ This will be my plan to develop this game community further as well as contribut
 
 - Have a system where people can reconnect to their game state like in League of Legends due to people disconnecting from games 
 and getting a loss which basically means they loss ELO.
-(Useful in rated duels or tournament events) (Example of concept).
-"Your opponent has disconnected, do you wish to wait?"
+(Useful in rated duels or tournament events) (Example of concept). After a short period of time (1 to 5min) a message will display "Your opponent has disconnected, do you wish to wait?"
 and upon that player reopening the client, they are automatically connected to the game, otherwise it will replay that you win and end the game.
 
 ######Aesthestic changes
