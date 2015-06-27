@@ -30,7 +30,7 @@ This will be my plan to develop this game community further as well as contribut
 
 -  Availability of disabling the Stats shown in the game and or in unranked duels 
 
-- Have an alternative dueling mode such as (FFA) with unlimited ammount of players and or example 1v2 ,4v4, 5v5, 6v6)
+- Have an alternative dueling mode such as (FFA) with unlimited ammount of players but with a pre-defined limitation or example 1v2 ,4v4, 5v5, 6v6)
 
 -  Availability to have a our own channel room or social tab where people can communicate with each other on a microphone/webcam that can toggled on and off during game or in settings so people can talk instead of typing.
 
