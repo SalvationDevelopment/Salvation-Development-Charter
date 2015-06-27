@@ -16,4 +16,4 @@
 
 - Chat logs stored on the system, to be accessed even if the window has be closed.
 
-- Notes from Pokemon Showdown: 1) Enabling of "Mod-Chat", disallowing none "+" or higher users to talk. 2) A feature which stops players from having the ability to start duels, so that a server restart can go more seemlesly. 3) Having non-English chats readily avalible. 4) Having a feature on the gamelist to show how many active duels are currently going.
+- Notes from Pokemon Showdown: 1) Enabling of "Mod-Chat", disallowing non "+" or higher users to talk. 2) A feature which stops players from having the ability to start duels, so that a server restart can go more seemlesly. 3) Having non-English chats readily avalible. 4) Having a feature on the gamelist to show how many active duels are currently going.
