@@ -4,7 +4,7 @@
 
 >CCG database implemented
 
->Coding and graphic art support for in>house card design
+>Coding and graphic art support for in-house card design
 
 >Tournaments which include CCG, TCG, and OCG
 
