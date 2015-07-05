@@ -1,39 +1,49 @@
-Things I wish to accomplish:
+###Things I wish to accomplish:
 
--CCG database implemented
 
--Coding and graphic art support for in-house card design
 
--Tournaments which include CCG, TCG, and OCG
+>CCG database implemented
 
--Skype room for discussing coding, art, and community for Salvation
+>Coding and graphic art support for in>house card design
 
--Eventually archetype acceptance regarding the CCG
+>Tournaments which include CCG, TCG, and OCG
 
--Successfully balanced CCG cards that people are playing or having fun with
+>Skype room for discussing coding, art, and community for Salvation
 
-Features I wish to see in Salvation (concept):
+>Eventually archetype acceptance regarding the CCG
 
--Webbased duelling and speculating
+>Successfully balanced CCG cards that people are playing or having fun with
 
--Webbased deck-edit
 
--Sound and animation triggers in the browser version
 
--Alternate multi-player duels, such as Battle Royals or 2vs1 duels
+###Features I wish to see in Salvation (concept):
 
--In-game translation across languages
 
--Avatar or image for hosting or in-game
 
-System changes I wish to see:
+>Web-based duelling and speculating
 
--Complete downloadable log of a game for a user or staff
+>Web-based deck-edit
 
--Checkbox instead of holding A for forcing activations
+>Sound and animation triggers in the browser version
 
--Media sharing between users via file sharing. Includes replays, decks, images, music, and sounds
+>Alternate multi-player duels, such as Battle Royals or 2vs1 duels
 
--CCG tab on Salvation program for easy accept to CCG reports and submissions
+>In-game translation across languages
+
+>Avatar or image for hosting or in-game
+
+
+
+###System changes I wish to see:
+
+
+
+>Complete downloadable log of a game for a user or staff
+
+>Check-box instead of holding A for forcing activations
+
+>Media sharing between users via file sharing. Includes replays, decks, images, music, and sounds
+
+>CCG tab on Salvation program for easy accept to CCG reports and submissions
 
 
