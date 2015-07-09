@@ -4,7 +4,7 @@ Actual Rules
 The following are the only core rules and policies, in no particular order.
 
 - Jamezs "AccessDenied" Gladney is singularly incharge. Everyone else is an equal under him.
-    - Violation of this or direct insubortnation will result in being asked and/or strong armed into leaving the project.
+    - Violation of this or direct insubortnation will result in being asked and/or potentially strong armed, into leaving the project.
     - Pay attention for, **"... thats an order."** It significes invoking this clause.
 - If there is a problem with the software file a bug.
 - Do not take work you can not complete in a timely manner, or show progress of completing.
