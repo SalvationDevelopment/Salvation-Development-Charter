@@ -13,6 +13,13 @@ The following are the only core rules and policies, in no particular order.
 - Do not leave the development room in an argumentative state, this signifies the same as abandoning your post. You forfeit administrative privileges and and staff status by doing this.
 - Use version control, this is not negotiable.
 
+Logic for Rules
+===============
+If something is a rule it means there is a break down of communication, function, or ideologedy between two or more people chronically in a situation. A rule is an artifical solution for lack of principle.
+
+- The person experiencing an annoyance likely to inappropriately prioritize it and miscommunicate it via the lens of annoyance, and the person being notified will natually forget or may not be the appropriate person to solve the problem. People should not be punished for doing things that are natural. So the person that has the ablity to resolve the issue needs a way to become familiar with the issue at a later time, even possibly fail to solve it on the first try and have a mechanism to review it yet again. Bug reports and issue tracking provide a medium for both the staff and the users to equally experience an issue.
+- Communication is the basis of the human condition realizing an idea that effects social change. Harming this is an attack on the group. This behavior will not be supported. Keeping secrets from the group about the group is harming the group.
+- You will make mistakes, except that. You will forget things, except that, you will need to communicate, except that, you will need to communicate with people and computers, accept that. Accept version control.
 
 Culture
 =======
