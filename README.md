@@ -41,10 +41,10 @@ A collection of the top to middle socially adjusted, mildly depressed YGO player
 - Use Github, and commit often.
 - Work off a branch, except during core development.
 - File bug reports/issues, and set up a task list for what you are doing.
-- Dont break "master".
-- **Code in "JavaScript" or "Go".** C# and C++ exist in our codebase and we are trying to get away from those!
-- No "Ruby", "Java", "Python", "C", no whatever other language you are thinking of!
-- No "CoffeeScript", "TypeScript", or "Dart"!
+- Dont break `master`.
+- **Code in `JavaScript` or `Go`.** C# and C++ exist in our codebase and we are trying to get away from those!
+- No `Ruby`, `Java`, `Python`, `C`, no whatever other language you are thinking of!
+- No `CoffeeScript`, `TypeScript`, or `Dart`!
 
 
 **Articles**
