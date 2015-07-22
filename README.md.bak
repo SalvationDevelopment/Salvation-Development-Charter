@@ -5,8 +5,15 @@ The following are the only core rules and policies, in no particular order.
 
 - Jamezs "AccessDenied" Gladney is singularly incharge. Everyone else is an equal under him.
     - Violation of this or direct insubortnation will result in being asked and/or potentially strong armed, into leaving the project.
+<<<<<<< HEAD
+    - Pay attention for, **"... thats an order."** It significes invoking this clause.
+    - Any development and/or production servers must be owned/rented/leased/procurred by AccessDenied.
+- If there is a problem with the software file a bug.
+- If there is a problem between you and another staff member resolve it quickly and apologize sincerly and mutually.
+=======
     - Pay attention for **"... thats an order."** It signifies invoking this clause.
 - If there is a problem with the software, file a bug.
+>>>>>>> origin/master
 - Do not take work you can not complete in a timely manner, or show progress of completing.
 - We are making software for users, not developers. Don't make things that are locked to one operating system, lack UI, require many dependencies or require crafted non-default configuration.
     - Setup should be as few steps as possible.
@@ -17,9 +24,15 @@ Logic for Rules
 ===============
 If something is a rule it means there is a breakdown of communication, function, or ideology between two or more people chronically in a situation. A rule is an artifical solution for lack of principle.
 
+<<<<<<< HEAD
+- The person experiencing an annoyance likely to inappropriately prioritize it and miscommunicate it via the lens of annoyance, and the person being notified will natually forget or may not be the appropriate person to solve the problem. People should not be punished for doing things that are natural. So the person that has the ablity to resolve the issue needs a way to become familiar with the issue at a later time, even possibly fail to solve it on the first try and have a mechanism to review it yet again. Bug reports and issue tracking provide a medium for both the staff and the users to equally experience an issue.
+- Communication is the basis of the human condition realizing an idea that effects social change. Harming this is an attack on the group. This behavior will not be supported. Keeping secrets from the group about the group is harming the group. For this reason we try to keep everyone in the main staff room so they can effectively communicate and learn at minimum by osmosis. Conflicts are natural and must be sorted. After resolution both parties are required to apologize to each other sincerly so the group can resume normal working conditions. Arguments effect the whole group not just those involved.
+- You will make mistakes, except that. You will forget things, except that, you will need to communicate, except that, you will need to communicate with people and computers, accept that. Accept version control.
+=======
 - The person experiencing an annoyance likely to inappropriately prioritize it and miscommunicate it via the lens of annoyance, and the person being notified will naturally forget or may not be the appropriate person to solve the problem. People should not be punished for doing things that are natural. So the person that has the ablity to resolve the issue needs a way to become familiar with the issue at a later time, even possibly fail to solve it on the first try and have a mechanism to review it yet again. Bug reports and issue tracking provide a medium for both the staff and the users to equally experience an issue.
 - Communication is the basis of the human condition realizing an idea that affects social change. Harming this is an attack on the group. This behavior will not be supported. Keeping secrets from the group about the group is harming the group.
 - You will make mistakes, accept that. You will forget things, accept that, you will need to communicate, accept that, you will need to communicate with people and computers, accept that. Accept version control.
+>>>>>>> origin/master
 
 Culture
 =======
@@ -27,7 +40,12 @@ Culture
 A collection of the top to middle socially adjusted, mildly depressed YGO players world wide. They are dicks, perverted, spastic, nerdy, anxious, awkward, patient, helpful, innovative, and concerned with the mental well-being and happiness of those around them. They possess great problem solving and communication skills. They are passionate about Yu-Gi-Oh! and connecting with others.
 
 - People are the most important asset.
+<<<<<<< HEAD
+- Take care of your non-Salvation related life responsiblities before taking care of Salvation related things.
+- Be honest, with your coworkers and self.
+=======
 - Be honest, with your co-workers and self.
+>>>>>>> origin/master
 - For the user experience, make the right thing to do the easiest thing to do.
 - **Solve problems by fixing the environment that allowed them to occur.**
 - It doesn't matter when or how much you work, only that your peers trust you and feel like you are contributing. Minimum work load is simply doing as asked in a prompt manner.
