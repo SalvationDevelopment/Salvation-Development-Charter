@@ -10,13 +10,13 @@ To become a developer with us you need to learn one of the following sections, a
 * Just Google the answer
 
 ###Github
-Our main means of code and information sharing is Github so you need to learn the core concepts of using and working with it. No matter what language you are using you will have to learn this.
-* [Visual Explaination](https://www.youtube.com/watch?v=u12zHGRfiKU)
+Our main means of code and information sharing is GitHub so you need to learn the core concepts of using and working with it. No matter what language you are using you will have to learn this.
+* [Visual Explanation](https://www.youtube.com/watch?v=u12zHGRfiKU)
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/index.html)
 * [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
 * [GitHub Flow in the Browser](https://help.github.com/articles/github-flow-in-the-browser/)
 * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
-* [Command line basics](http://rogerdudler.github.io/git-guide/)
+* [Command Line Basics](http://rogerdudler.github.io/git-guide/)
 * [Pro Git](http://git-scm.com/book/en/v2)
 
 ##Markdown
@@ -31,7 +31,7 @@ Our main means of code and information sharing is Github so you need to learn th
 * [Tutorial](http://www.w3schools.com/css/css_intro.asp)
 
 ###JS
-* [Javascript Basics & Guidelines](https://gokulkrishh.github.io/Javascript-Guidelines/)
+* [JavaScript Basics & Guidelines](https://gokulkrishh.github.io/Javascript-Guidelines/)
 * [Learn JavaScript in 12 Minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
 * [TagTree Basics Course](http://tagtree.tv/courses/beginner-javascript-part-1/)
 * [30 Days of JavaScript](http://www.careerist.org/30-concepts-of-javascript-part-1/)
@@ -56,8 +56,8 @@ Our main means of code and information sharing is Github so you need to learn th
 * [Different SQL JOINs](http://stackoverflow.com/questions/38549/difference-between-inner-and-outer-joins)
 
 ###YGOPro API
-* [Jackmoonward's tutorial](http://www.ygopro.co/Forum/tabid/95/g/posts/t/120/Adding-cards-to-YGOPro--Tutorial----Scripting-video-Added#post381) - Video: [Database](https://www.youtube.com/watch?v=XePYKHv4g1o), [Script](https://www.youtube.com/watch?v=V_6qse-hSOg)
-* [Outlaw1994's book](http://www.mediafire.com/download/ue8seiulh20r71a/book.pdf)
+* [Jackmoonward's Tutorial](http://www.ygopro.co/Forum/tabid/95/g/posts/t/120/Adding-cards-to-YGOPro--Tutorial----Scripting-video-Added#post381) - Video: [Database](https://www.youtube.com/watch?v=XePYKHv4g1o), [Script](https://www.youtube.com/watch?v=V_6qse-hSOg)
+* [Outlaw1994's Book](http://www.mediafire.com/download/ue8seiulh20r71a/book.pdf)
 * [Compiled API Documentation](https://github.com/SalvationDevelopment/Ygopro-Card-Creation)
 
 ##Internals
@@ -70,9 +70,9 @@ Our main means of code and information sharing is Github so you need to learn th
 ##Go (Language)
 * [Go at Google](https://talks.golang.org/2012/splash.article)
 * [A Tour of Go](http://tour.golang.org/)
-* [How to write Go code](http://golang.org/doc/code.html)
+* [How to Write Go Code](http://golang.org/doc/code.html)
 * [Effective Go](http://golang.org/doc/effective_go.html)
-* [Fundamentals of concurrent programming](http://www.nada.kth.se/~snilsson/concurrency/)
+* [Fundamentals of Concurrent Programming](http://www.nada.kth.se/~snilsson/concurrency/)
 
 ##C#
 * [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
@@ -80,8 +80,8 @@ Our main means of code and information sharing is Github so you need to learn th
 
 
 ##Engineering
-Engineering is the hardest part, its the part that does not come 'intuitively', or 'naturally' to people. If anything this is the one part of programming I honestly suggest you go to school for, as soon as a school is made. Sense one doesnt exist,...
-* [From a monolith to micro-services (part 1)](https://medium.com/@urbanmassage/from-a-monolith-to-micro-services-part-1-9e2c4a18c41e)
+Engineering is the hardest part, its the part that does not come 'intuitively', or 'naturally' to people. If anything this is the one part of programming I honestly suggest you go to school for, as soon as a school is made. Since one doesn't exist...
+* [From a Monolith to Micro-services (part 1)](https://medium.com/@urbanmassage/from-a-monolith-to-micro-services-part-1-9e2c4a18c41e)
 * [The Mythical Man-Month](http://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 * [The Cathedral and the Bazaar](http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
 * [The Pragmatic Programmer](http://blog.codinghorror.com/a-pragmatic-quick-reference/)
