@@ -1,0 +1,52 @@
+Sim Master Race
+ 
+  - Simulate IRL play as close as possible.
+     - Manual operation
+         - This has the upside of being able to work around issues manually until the automation is fixed
+     - Leeway for genuine accidents - missclicks and the like
+     - This to be a togglable option
+     - Official TCG style tags
+     - Official OCG tag rules
+     - Official 3v3 rules
+     - Choices between banlists
+     - Choices between regional rulings
+  - A chat that's in a more prominent spot, instead of almost invisible at the bottom without fading away.
+     - The chat to be where it won't get in the way of play
+     - A chat log
+     - For chat to not get interrupted every time a prompt comes up
+     - A chat system similar to DN's Public, Private, and Watcher's chats
+  - Card confirmations; as in the info of a revealed card(s) is certain before it's put in wrong.
+     - This includes stats, effects, typings, and name.
+  - Duel specifications visible from the duel room
+     - From LP differences from the norm, to passwords, to anime/ocg/tcg/tcocg/etc, to proxies - basically duel notes, perhaps as hover alt-text
+     - Duel notes a la DN's duel notes.
+  - Random duel pool for rated
+  - Name/rating/duel type searching in the duel room
+  - The ability to kick particularly uncouth watchers, or at least mute a specific person(s)
+  - The place banished cards go to not be called the "Banished Zone"
+  - Ability to use custom rule sets
+     - This would also be visible from the duel room
+  - Sleeves to be visible to others in game
+  - A more user-friendly way to customize the cosmetics - custom card arts, sleeves, background, etc than is on the YGOPro systems at this time
+  - The ability to separate by language
+  - Public Knowledge things to be readily seen, regardless of when a player wishes to see them.
+  - Native screenshot tool
+  - Native recording tool
+  - The duel room to not be moving its tiles rapidly
+  - Siding like DN has
+  - The deck editor like the YGOPros have
+  - Timer to be a toggle-able option for unrated
+  - A surrender button in tags
+     - The team mate is given a prompt asking if they agree with the surrender
+     - Players who just quit our of Tags to be penelized
+        - This would also require that the system know the difference between a disconnection and a closing of the duel window
+  - Decks to be tied to account instead of device, similar to how DN's decks are tied to the accounts
+  - A copy of the most current official rule book in the launcher
+     - Perhaps a link to it as well
+     - Link to the official konami card databases
+     - Link to rulings pages
+     - Link to the wiki
+     - Links to explanation videos about game mechanics
+  - In-game account has to be connected to a forum account
+  - A solid rule structure
+  - Optional Controller support
