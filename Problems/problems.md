@@ -134,33 +134,37 @@ Observations by Salvations Staff
 - Not picking up the game for the first time
 - **Keeps people playing yugioh when they are dissatified with Konami**
 
+###Konami
+- Not sure what they dont know or care about
+- Dont seem to want to take legal action against the pros
+- 
 
 
 #Questions
 - Why do people like Manual or Automatic?
-    - Realistic expierence
-    - They want to cheat
-    - Automation makes the game harder
-    - Automation makes the game easier
-    
-- Why dont the programmers get along?
-    - Finacial reasons
-    - Pride
-    - Programming and spoken language barriers
-    
+- Why dont the programmers get along? 
 - Why is DN's staff corrupt/non responsive?
-- Why cant all the non-users work togeather across all the sims?
+- Why cant all the non-users/admin work togeather across all the sims?
 - Why cant we educate each other>
 - Why are we not tolerant of each other?
 - Why doesnt the YGOPro system sopport both TCG and OCG
 - What are the development cycles of each sim, and why.
+- Why is Konami not taking legal action, and when it does why is it only minor
+
+#Hypothesis (Primary)
+###Why do people like Manual or Automatic?
+In manual its easy to avoid misclicks, you can take back stuff, people want to cheat. Automatic may be poorly coded for certain situations. Manual is more flexiable for devided nonsensical rulings. Enables elitist class thinking. Illusion of control. 
+
+###Why dont the programmers get along?
+Financial reasons, introverted personalities and prideful. Other programmers usually dont possess the skills to defy the other. Sense of ownership. Paranoia. Comp
 
 
+###Why is DN's staff corrupt/non responsive?
+Age of the staff is really low. No competitors. None of them have programming experience and are very threatened by developers. Backed by other established community support systems. Leader missing in action. Player base treats them poorly due to lack of service so they have an in group protective system. Secretive, ran by xenophobes. Effectively powerless and cant admit it so take anger out on player base.
 
-##Hypothesis (Primary)
-- Create a system 
-- Leadership should be sole on one person
-- It should not be funded by donations.
+
+###Why cant all the non-users/admin work togeather across all the sims?
+Want different things. Want casual, want hardcore, some want by the book, personality disfunctions. Competition. Loyality.
 
 #Conclusions
 Problem is sociological in nature.
