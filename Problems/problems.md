@@ -94,8 +94,6 @@ Observations by Salvations Staff
 - Not as popular
 
 ###Competitive Players
-- Aggrigate on DGZ
-- Very anal about rullings
 - The vocal ones have negative elitist additutes that have proved toxic to the community and how players treat and view each other.
 - Prefer manual gameplay
 - Intolerant (admittedly) in grounp thinking.
@@ -105,10 +103,21 @@ Observations by Salvations Staff
 - Establish the meta
 - Establish card price
 
-
 ###Super Casuals
 - Extend study of the cards, explore all ideas equally.
 - (MST Negates)
+
+###Elitist Class
+- Aggrigate on DGZ
+- Very anal about rullings
+- Xenophobic for America
+- Have a vested intrest in DN and are against YGOPro variants.
+- Control the YGO wikia
+- Run the YGOrgization.
+- Thier views prevent proper internationalization of the DN and YGOPro
+- Highly competitive.
+- Provide information about Leaks
+
 
 ###Minor (
 - More and more people using sims.
