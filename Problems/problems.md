@@ -117,6 +117,15 @@ Observations by Salvations Staff
 - Thier views prevent proper internationalization of the DN and YGOPro
 - Highly competitive.
 - Provide information about Leaks
+- Administration on DN
+
+###Programmers
+- Usually have an **EXTREMELY POOR UNDERSTANDING OF THE _DOMAIN PROBLEM_**
+- Lack financial resource
+- Reclusive
+- Hard to contact
+- Paranoid
+- Possessive
 
 
 ###Minor (
