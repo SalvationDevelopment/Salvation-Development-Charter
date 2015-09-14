@@ -2,6 +2,10 @@
 Konami over the course of the franchises life has failed to provide a game that addresses the communities full needs in the niche. The community has made a number of attempts (more successful than Konami's) that fail to full encompass the needs of the community. Problems with the community made simulators appear to be wicked in nature.
 
 
+
+#Observation
+Observations by Salvations Staff
+
 ###YVD
 - Solved the method of manual play
 - Solved social status problem, it limited staff, they served in diffferent skilled roles.
@@ -70,7 +74,7 @@ Konami over the course of the franchises life has failed to provide a game that 
 
 ###DevPro
 - Custiomization system For YGOPro
-- First Large Staff
+- First to have a Large International Staff
 - Effective Ranking in YGOPro
 - Refined and stable Server system
 - Rapid self updater
@@ -87,11 +91,29 @@ Konami over the course of the franchises life has failed to provide a game that 
 - Bad Server Stablity
 - Refined international support
 - Improments to Staff protocol.
-- Not popular
+- Not as popular
+
+###Competitive Players
+- Aggrigate on DGZ
+- Very anal about rullings
+- The vocal ones have negative elitist additutes that have proved toxic to the community and how players treat and view each other.
+- Prefer manual gameplay
+- Intolerant (admittedly) in grounp thinking.
+- Secretive
+- Xenophobic to those not of thier same nationality/region (American, German, Chinese, Japanese Groups)
+- Provide analytical value to the community 
+- Establish the meta
+- Establish card price
 
 
-##Pre Endevor Observations (
-- system should function and more importantly contiune to evolve with the  central leader.
+###Super Casuals
+- Extend study of the cards, explore all ideas equally.
+- (MST Negates)
+
+###Minor (
+- More and more people using sims.
+- Not picking up the game for the first time
+- **Keeps people playing yugioh when they are dissatified with Konami**
 
 
 
