@@ -126,6 +126,7 @@ Observations by Salvations Staff
 - Hard to contact
 - Paranoid
 - Possessive
+- Dont understand thier influence on the game
 
 
 ###Minor (
@@ -135,7 +136,26 @@ Observations by Salvations Staff
 
 
 
-##Conclusion
+#Questions
+- Why do people like Manual or Automatic?
+    - Realistic expierence
+    - They want to cheat
+    - Automation makes the game harder
+    - Automation makes the game easier
+    
+- Why dont the programmers get along?
+    - Finacial reasons
+    - Pride
+    - Programming and spoken language barriers
+    
+- Why is DN's staff corrupt/non responsive?
+- Why cant all the non-users work togeather across all the sims?
+- Why cant we educate each other>
+- Why are we not tolerant of each other?
+- Why doesnt the YGOPro system sopport both TCG and OCG
+- What are the development cycles of each sim, and why.
+
+
 
 ##Hypothesis (Primary)
 - Create a system 
