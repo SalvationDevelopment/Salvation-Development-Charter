@@ -58,6 +58,9 @@ A collection of the top to middle socially adjusted, mildly depressed YGO player
 
 
 **Articles**
+* [Spotify Engineering Culture part 1](https://www.youtube.com/watch?v=Mpsn3WaI_4k)
+* [Spotify Engineering Culture part 2](https://www.youtube.com/watch?v=X3rGdmoTjDc)
+* [9 Unique Traits of High-Performing Teams](http://www.slideshare.net/weekdone/9-unique-traits-of-highperforming-teams-55295053)
 * [Release Early, Release Often](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html)
 * [Angelina Fabbro: JavaScript Masterclass](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
 * [Homesteading the Noosphere ("Hacker" Behavioral Code)](http://firstmonday.org/ojs/index.php/fm/rt/printerFriendly/1474/1389)
