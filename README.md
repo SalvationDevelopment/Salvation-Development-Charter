@@ -44,7 +44,7 @@ A collection of the top to middle socially adjusted, mildly depressed YGO player
 
 **Development Practices**
 - Use Github, and commit often.
-- Work off a branch, except during core development.
+- Work off a branch, if you are coding something dangerous.
 - File bug reports/issues, and set up a task list for what you are doing.
 - Dont break `master`.
 - **Code in `JavaScript` or `Go`.** C# and C++ exist in our codebase and we are trying to get away from those!
