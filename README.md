@@ -73,6 +73,7 @@ A collection of the top to middle socially adjusted, mildly depressed YGO player
 * [From Fairy to Bad-Ass: Or, How I Found Empowerment with 5 Changes](https://medium.com/@lindsaykohler/from-fairy-to-bad-ass-or-how-i-found-empowerment-with-5-changes-bcddab4c11c7)
 * [Creativity Isn't a Talent, It's a Skill](https://www.youtube.com/watch?v=TsxRstKDcVI)
 * [The Two Cultures of Computing](http://pgbovine.net/two-cultures-of-computing.htm)
+* [Code Reviews](http://linfisher.com/2015/12/23/code-reviews-in-the-age-of-agile-like-water-for-chocolate/)
 
 **Quotes**
 > "Do not run, do not back down, face every issue and do not rest till you work it out with the people here."
