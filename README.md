@@ -20,6 +20,15 @@ If something is a rule it means there is a breakdown of communication, function,
 - The person experiencing an annoyance likely to inappropriately prioritize it and miscommunicate it via the lens of annoyance, and the person being notified will naturally forget or may not be the appropriate person to solve the problem. People should not be punished for doing things that are natural. So the person that has the ablity to resolve the issue needs a way to become familiar with the issue at a later time, even possibly fail to solve it on the first try and have a mechanism to review it yet again. Bug reports and issue tracking provide a medium for both the staff and the users to equally experience an issue.
 - Communication is the basis of the human condition realizing an idea that affects social change. Harming this is an attack on the group. This behavior will not be supported. Keeping secrets from the group about the group is harming the group.
 - You will make mistakes, accept that. You will forget things, accept that, you will need to communicate, accept that, you will need to communicate with people and computers, accept that. Accept version control.
+-  The follow is a quote in regards to AccessDenied : 
+
+> "You know, that's a great question, [...], and I might have to give it some thought. But what I can tell you I ask myself every single day is, how can I be useful in creating [a place] that is more tolerant, more prosperous, provides greater opportunity, is safer."
+
+> "So I might just ask somebody, why do you want to do this? And I suppose they'd give a cliche answer because that's what [people] do, but I will tell you as [a leader], if you are interested just because you like the title or you like the trappings or you like the power or the fame or the celebrity, that side of it wears off pretty quick. At least it has for me."
+
+> "And what sustains me, what lasts, what makes me happy, proud, frustrated sometimes, is the recognition that if you want this job then you really need to love this country and have a very clear vision and idea of what it is that you want to do to help make this [place] work even better."
+
+> "I don't think this [place] works best on fear. I don't think this [place] works best on hate. I don't think this [place] works best on cynicism. I think this [place] works best on community and hope and optimism and dynamism and change. If you are aspiring to this job then you need to ask yourself some very serious questions about why you're doing it because that's what's going to keep you going on those days that things aren't going so well."
 
 Culture
 =======
