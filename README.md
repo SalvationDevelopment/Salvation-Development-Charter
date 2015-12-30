@@ -26,7 +26,7 @@ If something is a rule it means there is a breakdown of communication, function,
 
 > "So I might just ask somebody, why do you want to do this? And I suppose they'd give a cliche answer because that's what [people] do, but I will tell you as [a leader], if you are interested just because you like the title or you like the trappings or you like the power or the fame or the celebrity, that side of it wears off pretty quick. At least it has for me."
 
-> "And what sustains me, what lasts, what makes me happy, proud, frustrated sometimes, is the recognition that if you want this job then you really need to love this country and have a very clear vision and idea of what it is that you want to do to help make this [place] work even better."
+> "And what sustains me, what lasts, what makes me happy, proud, frustrated sometimes, is the recognition that if you want this job then you really need to love this [place] and have a very clear vision and idea of what it is that you want to do to help make this [place] work even better."
 
 > "I don't think this [place] works best on fear. I don't think this [place] works best on hate. I don't think this [place] works best on cynicism. I think this [place] works best on community and hope and optimism and dynamism and change. If you are aspiring to this job then you need to ask yourself some very serious questions about why you're doing it because that's what's going to keep you going on those days that things aren't going so well."
 
