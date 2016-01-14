@@ -48,7 +48,7 @@ A collection of the top to middle socially adjusted, mildly depressed YGO player
 - File bug reports/issues, and set up a task list for what you are doing.
 - Dont break `master`.
 - **Code in `JavaScript` or `Go`.** C# and C++ exist in our codebase and we are trying to get away from those!
-- No `Ruby`, `Java`, `Python`, `C`, no whatever other language you are thinking of!
+- No `Ruby`, `Java`, `Python`, `C`, no whatever other language you are thinking of! *Except with AccessDenied's permission*
 - No `CoffeeScript`, `TypeScript`, or `Dart`!
 - Quality is free for those that pay for it. Take the time to fix something, there are no deadlines here. Keep your estimates to yourself and get it done.
 - Before taking on a large task, get rest. Program somewhere peaceful and in comfort.
