@@ -74,6 +74,7 @@ A collection of the top to middle socially adjusted, mildly depressed YGO player
 * [Creativity Isn't a Talent, It's a Skill](https://www.youtube.com/watch?v=TsxRstKDcVI)
 * [The Two Cultures of Computing](http://pgbovine.net/two-cultures-of-computing.htm)
 * [Code Reviews](http://linfisher.com/2015/12/23/code-reviews-in-the-age-of-agile-like-water-for-chocolate/)
+* [I’m a Woman in Tech, But Even I Didn’t “Get It” Until This Week](https://medium.com/@lkr/i-m-a-woman-in-tech-but-even-i-didn-t-get-it-until-this-week-350cf8b62c46#.aprfkmr30)
 
 **Quotes**
 > "Do not run, do not back down, face every issue and do not rest till you work it out with the people here."
