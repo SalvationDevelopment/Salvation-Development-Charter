@@ -1,4 +1,27 @@
-﻿Actual Rules
+Charter
+=======
+
+The core of Salvation comes from YVD-Xerocreative, it seeks to bring that form of a community to the present from the past. Along the way we have also picked up and intergrated the prosperity that are the times of KCVDS-BattleCity. The sum of the concept is Yu-Jo Friendship, and we seek to bring it to the masses, and sadly Konami in the long run. Within the Yu-Gi-Oh community we seek to make it as easy as possible for people to be kind to each other.
+
+This requires a degree of control over the community to mentor and disipline it. The only way we have found to be able to do this is via being an open simulator that reaches all parts of the community and set precedent and general norms of behavior. To reach that goal the following features are needed.
+
+- Edge of announcement cards in the cardpool.
+- A web based platform not slated for end-of-life.
+- Optional Manual game state
+- Optional Automation of the game state
+- Tourment system that mimics COSSY
+- Tourment system that mimics ARG
+- Optional Ranking system
+- Limitations on what information about rank are viewable
+- Easy to understand and use AI
+- Translation of the system into as many languages as possible.
+- Easy internal update system
+ 
+
+Due to these required features the Salvation seeks to re-implement YGOPro in the browser with JavaScript.
+
+
+Actual Rules
 ============
 
 The following are the only core rules and policies, in no particular order.
