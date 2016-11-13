@@ -1,9 +1,12 @@
 Index
 =====
-Chater
+Charter
+Contributing
 Actual Rules
 Principles
 Culture
+Notes About Programming
+Learning to Program
 
 
 Charter
@@ -28,7 +31,17 @@ This requires a degree of control over the community to mentor and disipline it.
 
 Due to these required features the Salvation seeks to re-implement YGOPro in the browser with JavaScript.
 
-
+Contributing and/or Becoming Staff
+=============================
+To become staff you must:
+ - Contribute to this collection of documentation with your personal goals in regards to this project, in our `User Stories` folder.
+ - Verbally explain the content of this file point by point in your own words to AccessDenied.
+ - Contribute to at least one other repository in this Github Organization.
+ - Duel AccessDenied with a "Billy Deck". Winning is not the point of the duel, personal expression is.
+ - Post at least one thought provoking article on our forums.
+ - Know, or actively start learning HTML, CSS, and JavaScript.
+ 
+ 
 Actual Rules
 ============
 
