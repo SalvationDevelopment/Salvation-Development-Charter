@@ -1,3 +1,11 @@
+Index
+=====
+Chater
+Actual Rules
+Principles
+Culture
+
+
 Charter
 =======
 
@@ -35,14 +43,16 @@ The following are the only core rules and policies, in no particular order.
     - Setup should be as few steps as possible.
 - Do not leave the development room in an argumentative state, this signifies the same as abandoning your post. You forfeit administrative privileges and staff status by doing this.
 - Use version control, this is not negotiable.
+- Face every interpersonal issue and do not rest till you work it out with the people here. If you have a problem with another staff member work it out till you both come to an agreement. Do not "block" other staff members in the staff chat.
 
-Logic for Rules
-===============
-If something is a rule it means there is a breakdown of communication, function, or ideology between two or more people chronically in a situation. A rule is an artifical solution for lack of principle.
+Principles
+==========
+Logic for the above rules is based on the following, if something is a rule it means there is a breakdown of communication, function, or ideology between two or more people chronically in a situation. A rule is an artifical solution for lack of principle.
 
 - The person experiencing an annoyance likely to inappropriately prioritize it and miscommunicate it via the lens of annoyance, and the person being notified will naturally forget or may not be the appropriate person to solve the problem. People should not be punished for doing things that are natural. So the person that has the ablity to resolve the issue needs a way to become familiar with the issue at a later time, even possibly fail to solve it on the first try and have a mechanism to review it yet again. Bug reports and issue tracking provide a medium for both the staff and the users to equally experience an issue.
 - Communication is the basis of the human condition realizing an idea that affects social change. Harming this is an attack on the group. This behavior will not be supported. Keeping secrets from the group about the group is harming the group.
 - You will make mistakes, accept that. You will forget things, accept that, you will need to communicate, accept that, you will need to communicate with people and computers, accept that. Accept version control.
+- People have different motivations, and communication styles. If one person is communicating to another in a way that that person feels is offensive; the core message is lost. If you feel offended focus on the message, not the delivery of it. Explain clearly the quirks of your own personality and respect the quirks of others. 
 
 Culture
 =======
@@ -99,8 +109,13 @@ A collection of the top to middle socially adjusted, mildly depressed YGO player
 * [Code Reviews](http://linfisher.com/2015/12/23/code-reviews-in-the-age-of-agile-like-water-for-chocolate/)
 * [I’m a Woman in Tech, But Even I Didn’t “Get It” Until This Week](https://medium.com/@lkr/i-m-a-woman-in-tech-but-even-i-didn-t-get-it-until-this-week-350cf8b62c46#.aprfkmr30)
 
+**Videos**
+* [Programming is terrible—Lessons learned from a life wasted. EMF2012](http://www.youtube.com/watch?v=csyL9EC0S0c)
+* [http://2013.jsconf.eu/speakers/natalia-buckley-make-world-less-shit-now.html](http://2013.jsconf.eu/speakers/natalia-buckley-make-world-less-shit-now.html)
+* [Why JavaScript Programmers Hate You: an ode to dynamic languages, Jan Vitek](https://www.youtube.com/watch?v=t3GzCwoQfb4)
+* [Rob Ashton - "Javascript sucks and it doesn't matter"](https://www.youtube.com/watch?v=PV_cFx29Xz0)
+
 **Quotes**
-> "Do not run, do not back down, face every issue and do not rest till you work it out with the people here."
 > "Anarchy works wonderfully in a small group of individuals with a high level of trust, the YGO community is not such a group of people."
 
 -Access
