@@ -1,16 +1,20 @@
 Index
 =====
-Charter
-Contributing
-Actual Rules
-Principles
-Culture
-Notes About Programming
-Learning to Program
-User Stories
-Roles
-Articles
-Videos
+- [Charter]()
+- [Contributing]()
+- [Actual Rules]()
+- [Principles]()
+- [Culture]()
+- [Notes About Programming]()
+- [Learning to Program]()
+- [Development Enviroment]()
+  * [IDE]()
+  * [Frameworks]()
+  * [Support Software]()
+- [User Stories]()
+- [Roles]()
+- [Articles]()
+- [Videos]()
 
 
 Charter
@@ -33,7 +37,7 @@ This requires a degree of control over the community to mentor and disipline it.
 - Easy internal update system
  
 
-Due to these required features the Salvation seeks to re-implement YGOPro in the browser with JavaScript.
+Due to these required features the Salvation seeks to re-implement YGOPro and DuelingNetwork in the browser with JavaScript.
 
 Contributing and/or Becoming Staff
 =============================
@@ -120,37 +124,37 @@ A collection of the top to middle socially adjusted, mildly depressed YGO player
 
 User Stories
 ============
- - [A2]()
- - [AccessDenied]()
- - [Adriano]()
- - [Akipuff]()
- - [AlexHoQuan]()
- - [AliceTheSeaQueen]()
- - [Archeytpe-Neko]()
- - [Bardon]()
- - [BrendaLove]()
- - [Bromantic]()
- - [ChibiChanNyan]()
- - [Delta_Escher]()
- - [Goddess]()
- - [IngwiPhoenix]()
- - [Irate]()
- - [JackMoonWard]()
- - [KayMaiomy]()
- - [WestCoastKiwi]()
- - [LaughingLuna]()
- - [LChaos2]()
- - [MistressMele]()
- - [MorganLeFlay]()
- - [OmniMage]()
- - [OneShot]()
- - [RagnaEdge]()
- - [Tragedy]()
- - [Trixie]()
- - [Valkyra]()
- - [WeekendWarrior]()
- - [Xtremeenigma]()
- - [Zetsuei]()
+ - [A2](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/A2.md)
+ - [AccessDenied](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/accessdenied.md)
+ - [Adriano](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/adriano.md)
+ - [Akipuff](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/akipuff.md)
+ - [AlexHoQuan](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/alexhoquan.md)
+ - [AliceTheSeaQueen](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/alicetheseaqueen.md)
+ - [Archeytpe-Neko](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/archetype-neko.md)
+ - [Bardon](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/bardon.md)
+ - [BrendaLove](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/brendalove.md)
+ - [Bromantic](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/bromantic.md)
+ - [ChibiChanNyan](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/chibi.md)
+ - [Delta_Escher](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/delta_escher.md)
+ - [Goddess](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/goddess.md)
+ - [IngwiPhoenix](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/ingwiphoenix.md)
+ - [Irate](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/irate.md)
+ - [JackMoonWard](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/jackmoonward.md)
+ - [KayMaiomy](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/kaymaiomy.md)
+ - [WestCoastKiwi](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/kiwi.md)
+ - [LaughingLuna](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/laughingLuna.md)
+ - [LChaos2](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/l2chaos2.md)
+ - [MistressMele](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/mele.md)
+ - [MorganLeFlay](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/morganleflay.md)
+ - [OmniMage](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/omnimage.md)
+ - [OneShot](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/oneshot.md)
+ - [RagnaEdge](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/ragnaedge.md)
+ - [Tragedy](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/tragedy.md)
+ - [Trixie](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/trixie.md)
+ - [Valkyra](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/valkyra.md)
+ - [WeekendWarrior](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/weekendwarrior.md)
+ - [Xtremeenigma](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/xtremeenigma.md)
+ - [Zetsuei](https://github.com/SalvationDevelopment/Salvation-Development-Charter/blob/master/User%20Stories/Zetsuei.md)
  
 **Articles**
 * [Spotify Engineering Culture part 1](https://www.youtube.com/watch?v=Mpsn3WaI_4k)
