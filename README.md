@@ -7,6 +7,10 @@ Principles
 Culture
 Notes About Programming
 Learning to Program
+User Stories
+Roles
+Articles
+Videos
 
 
 Charter
@@ -114,6 +118,40 @@ A collection of the top to middle socially adjusted, mildly depressed YGO player
 - Not killing each other when AccessDenied is sleep.
 
 
+User Stories
+============
+ - [A2]()
+ - [AccessDenied]()
+ - [Adriano]()
+ - [Akipuff]()
+ - [AlexHoQuan]()
+ - [AliceTheSeaQueen]()
+ - [Archeytpe-Neko]()
+ - [Bardon]()
+ - [BrendaLove]()
+ - [Bromantic]()
+ - [ChibiChanNyan]()
+ - [Delta_Escher]()
+ - [Goddess]()
+ - [IngwiPhoenix]()
+ - [Irate]()
+ - [JackMoonWard]()
+ - [KayMaiomy]()
+ - [WestCoastKiwi]()
+ - [LaughingLuna]()
+ - [LChaos2]()
+ - [MistressMele]()
+ - [MorganLeFlay]()
+ - [OmniMage]()
+ - [OneShot]()
+ - [RagnaEdge]()
+ - [Tragedy]()
+ - [Trixie]()
+ - [Valkyra]()
+ - [WeekendWarrior]()
+ - [Xtremeenigma]()
+ - [Zetsuei]()
+ 
 **Articles**
 * [Spotify Engineering Culture part 1](https://www.youtube.com/watch?v=Mpsn3WaI_4k)
 * [Spotify Engineering Culture part 2](https://www.youtube.com/watch?v=X3rGdmoTjDc)
