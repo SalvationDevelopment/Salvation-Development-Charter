@@ -67,6 +67,17 @@ Logic for the above rules is based on the following, if something is a rule it m
 - You will make mistakes, accept that. You will forget things, accept that, you will need to communicate, accept that, you will need to communicate with people and computers, accept that. Accept version control.
 - People have different motivations, and communication styles. If one person is communicating to another in a way that that person feels is offensive; the core message is lost. If you feel offended focus on the message, not the delivery of it. Explain clearly the quirks of your own personality and respect the quirks of others. 
 
+-  The follow is a quote in regards to AccessDenied : 
+
+> "You know, that's a great question, [...], and I might have to give it some thought. But what I can tell you I ask myself every single day is, how can I be useful in creating [a place] that is more tolerant, more prosperous, provides greater opportunity, is safer."
+
+> "So I might just ask somebody, why do you want to do this? And I suppose they'd give a cliche answer because that's what [people] do, but I will tell you as [a leader], if you are interested just because you like the title or you like the trappings or you like the power or the fame or the celebrity, that side of it wears off pretty quick. At least it has for me."
+
+> "And what sustains me, what lasts, what makes me happy, proud, frustrated sometimes, is the recognition that if you want this job then you really need to love this [place] and have a very clear vision and idea of what it is that you want to do to help make this [place] work even better."
+
+> "I don't think this [place] works best on fear. I don't think this [place] works best on hate. I don't think this [place] works best on cynicism. I think this [place] works best on community and hope and optimism and dynamism and change. If you are aspiring to this job then you need to ask yourself some very serious questions about why you're doing it because that's what's going to keep you going on those days that things aren't going so well."
+
+
 Culture
 =======
 
@@ -106,6 +117,7 @@ A collection of the top to middle socially adjusted, mildly depressed YGO player
 **Articles**
 * [Spotify Engineering Culture part 1](https://www.youtube.com/watch?v=Mpsn3WaI_4k)
 * [Spotify Engineering Culture part 2](https://www.youtube.com/watch?v=X3rGdmoTjDc)
+* [NOTES ABOUT LIFE FROM A GUY WHO FUCKING HATES SELF-HELP LISTICLES](https://medium.com/@sfali789/notes-about-life-from-a-guy-who-fucking-hates-self-help-listicles-9da233710a12#.99rp6hdcp)
 * [9 Unique Traits of High-Performing Teams](http://www.slideshare.net/weekdone/9-unique-traits-of-highperforming-teams-55295053)
 * [Release Early, Release Often](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html)
 * [Angelina Fabbro: JavaScript Masterclass](https://www.youtube.com/watch?v=v0TFmdO4ZP0)
