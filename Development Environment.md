@@ -2,23 +2,25 @@ Before starting development it is important to download and install all of the f
 
 IDE
 ===
-* [Visual Studio 2012 (C++, C#)](https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx)
+* [Visual Studio 2015 (C++, C#)](https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx)
 * [Brackets.io](http://brackets.io) (HTML, CSS, JavaScript, JSON, INI), install the following extentions.
-  - jshint
-  -  Brackets Git
-  -  Beautify
-  -  Emmet
-  -  Code Folding
+  - Brackets Git
+  - Beautify
+  - Brackets Exclude Indexing FileTree
+  - JSONLint Extension for Brackets
+  - Markdown Preview
+  - Markdown Toolbar
+  - Custom Work
+
 * an SQLite3 editor (sqlite, CDB)
 
 Language Frameworks
 ===================
 * [Node.js](https://nodejs.org/), use `npm install` on the following.
-  - nodemon
-  - http-server
-  - mocha
-  - istanbul
-* Go (Language from Google)
+  - `npm install nodemon`
+  - `npm install http-server`
+  - `npm install mocha`
+  - `npm install istanbul`
 * DirectX9 SDK
 
 Support Software
