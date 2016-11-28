@@ -65,6 +65,7 @@ The following are the only core rules and policies, in no particular order.
 - Do not leave the development room in an argumentative state, this signifies the same as abandoning your post. You forfeit administrative privileges and staff status by doing this.
 - Use version control, this is not negotiable.
 - Face every interpersonal issue and do not rest till you work it out with the people here. If you have a problem with another staff member work it out till you both come to an agreement. Do not "block" other staff members in the staff chat.
+- **THOU SHALT NOT PROFIT FINANCIALLY FROM THIS PROJECT**
 
 Principles
 ==========
@@ -181,6 +182,7 @@ User Stories
 * [http://2013.jsconf.eu/speakers/natalia-buckley-make-world-less-shit-now.html](http://2013.jsconf.eu/speakers/natalia-buckley-make-world-less-shit-now.html)
 * [Why JavaScript Programmers Hate You: an ode to dynamic languages, Jan Vitek](https://www.youtube.com/watch?v=t3GzCwoQfb4)
 * [Rob Ashton - "Javascript sucks and it doesn't matter"](https://www.youtube.com/watch?v=PV_cFx29Xz0)
+* [Google I/O 2009 - The Myth of the Genius Programmer] (https://www.youtube.com/watch?v=0SARbwvhupQ)
 
 **Quotes**
 > "Anarchy works wonderfully in a small group of individuals with a high level of trust, the YGO community is not such a group of people."
