@@ -35,13 +35,16 @@ for line in listoflines :
             regexText = re.compile(r";;\">\n(.*)")
             patternText = re.compile(regexText)
             card_text = re.findall(patternText, source)[0]
-            card_text = re.sub('(?!<br>|</br>)(<.*?>)','', card_text)
+            card_text = re.sub('(?!<dd>|</dd>|<dl>|</dl>|<br>|<br />)(<.*?>)','', card_text)
             card_text = re.sub('"', '""', card_text)
             card_text = re.sub("'", "''", card_text)
-            card_text = re.sub('<br>', '\n', card_text)
-            card_text = re.sub('</br>', '\n', card_text)
-            #print('Processing: '+line)
-            print('update texts set name="'+card_name+'", desc="'+card_text+'" where id='+line+';')
+            card_text = re.sub('<dd>', '\n', card_text)
+            card_text = re.sub('</dd>', '\n', card_text)
+            card_text = re.sub('<dl>', '\n', card_text)
+            card_text = re.sub('</dl>', '\n', card_text)
+            card_text = re.sub('<br />', '\n', card_text)
+            print('Processing: '+line)
+            #print('update texts set name="'+card_name+'", desc="'+card_text+'" where id='+line+';')
             query.write('update texts set name="'+card_name+'", desc="'+card_text+'" where id='+line+';')
     except urllib.error.HTTPError as err :
         if err.code == 404 :
