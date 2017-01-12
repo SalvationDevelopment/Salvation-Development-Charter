@@ -22,7 +22,7 @@ prescript = {'VJMP-JP': 200,
              'SJMP-JP': 204,
              '20AP-JP': 213,
              'PP19-JP': 214,
-             'SD31-JP': 331,
+             'RATE-EN': 911,
              'MACR-JP': 912}
 
 for line in listoflines :
@@ -42,25 +42,30 @@ for line in listoflines :
             source = sourcepage.decode("utf-8")
             regexName = re.compile(r"data\">\n(.*)</td>")
             patternName = re.compile(regexName)
-            card_name = re.findall(patternName, source)[0]
-            card_name = re.sub('"', '""', card_name)
-            #regexText = re.compile(r";;\">\n(.*[^<\/td>]*\.)*<\/td>", re.S)
-            regexText = re.compile(r";;\">\n(.*)")
-            patternText = re.compile(regexText)
-            card_text = re.findall(patternText, source)[0]
-            card_text = re.sub('(?!<dd>|</dd>|<dl>|</dl>|<br>|<br />)(<.*?>)','', card_text)
-            card_text = re.sub('"', '""', card_text)
-            card_text = re.sub('<dd>', '\n', card_text)
-            card_text = re.sub('</dd>', '\n', card_text)
-            card_text = re.sub('<dl>', '\n', card_text)
-            card_text = re.sub('</dl>', '\n', card_text)
-            card_text = re.sub('<br />', '\n', card_text)
-            card_text = re.sub('&amp;', '&', card_text)
-            print('Processing: '+line)
-            #print('update texts set name="'+card_name+'", desc="'+card_text+'" where id='+line+';')
-            query.write('update texts set name="'+card_name+'", desc="'+card_text+'" where id='+old_line+';')
+            try :
+                card_name = re.findall(patternName, source)[0]
+                card_name = re.sub('"', '""', card_name)
+                #regexText = re.compile(r";;\">\n(.*[^<\/td>]*\.)*<\/td>", re.S)
+                regexText = re.compile(r";;\">\n(.*)")
+                patternText = re.compile(regexText)
+                card_text = re.findall(patternText, source)[0]
+                card_text = re.sub('(?!<dd>|</dd>|<dl>|</dl>|<br>|<br />)(<.*?>)','', card_text)
+                card_text = re.sub('"', '""', card_text)
+                card_text = re.sub('<dd>', '\n', card_text)
+                card_text = re.sub('</dd>', '\n', card_text)
+                card_text = re.sub('<dl>', '\n', card_text)
+                card_text = re.sub('</dl>', '\n', card_text)
+                card_text = re.sub('<br />', '\n', card_text)
+                card_text = re.sub('&amp;', '&', card_text)
+                print('Processing: '+line)
+                #print('update texts set name="'+card_name+'", desc="'+card_text+'" where id='+line+';')
+                query.write('update texts set name="'+card_name+'", desc="'+card_text+'" where id='+old_line+';')
+            except IndexError :
+                pass
+            continue
     except urllib.error.HTTPError as err :
         if err.code == 404 :
             continue
         else :
             raise
+query.close()
