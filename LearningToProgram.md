@@ -40,7 +40,50 @@ Our main means of code and information sharing is GitHub so you need to learn th
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [JavaScript: The Definitive Guide (.pdf)](http://xue.unalmed.edu.co/~caalvare/poli/doc/Oreilly.JavaScript.The.Definitive.Guide.6th.Edition.Apr.2011.pdf)
 * [Effective JavaScript](http://effectivejs.com/)
-
+https://github.com/IBM-Blockchain/SDK-Demo
+• http://graphql.org/
+• https://nodered.org/
+• https://hapijs.com/
+• http://webdriver.io/
+• https://venturebeat.com/2012/01/30/dahl-out-mike-drop/
+• https://nodeschool.io/
+• http://nodebots.io/
+• https://loopback.io/
+• https://nodejs.org/api/n-api.html
+• https://www.slideshare.net/AruneshChandra/napi-nodesummit2017?qid=c3f02d8a-678e-4fac-bfd5-212f34aeca14&v=&b=&from_search=2
+• http://engineering.voxer.com/2013/09/16/backpressure-in-nodejs/
+• https://meshblu.readme.io/
+• https://github.com/octoblu/meshblu/wiki/SkyNet.im-a-quick-guide
+• https://sentry.io/welcome/
+• https://nodejs.org/en/blog/uncategorized/profiling-node-js/
+• https://en.m.wikipedia.org/wiki/Bryan_Cantrill
+• https://www.joyent.com/node-js/production/modules/vasync
+• https://www.joyent.com/node-js/production/design/errors
+• https://www.google.com/search?q=barbara+liskov&ie=UTF-8&oe=UTF-8&hl=en-us&client=safari
+• https://www.npmjs.com/package/autopsy npm install-g autopsy (mbd)
+• https://www.npmjs.com/package/machine_learning
+• https://synaptic.juancazala.com/#/
+• https://wagenaartje.github.io/neataptic/
+• convolutional neural network used a lot for image recognition
+• http://pathable.github.io/quilt/
+• https://github.com/kayousterhout
+• https://github.com/nodejs/http2
+• Microsoft working on time travel debugging: https://www.microsoft.com/en-us/research/project/javascript-time-travel-debugger/
+• https://electron.atom.io/
+• https://snyk.io/
+• https://nodesource.com/blog/nsolid-enterprise-node-finally/
+• --inspect-brk to break on the first line. https://nodejs.org/api/debugger.html
+• https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj/related
+• https://github.com/jaridmargolin/inspect-process
+• https://github.com/darcyclarke/rawkit
+• chrome://tracing/
+• Node -- tracing flag
+• https://gotwarlost.github.io/istanbul/
+• Archetypes, electrode, component, archetype: http://www.electrode.io/docs/what_are_archetypes.html
+• http://www.electrode.io/
+• https://blog.greta.io/deploying-node-js-with-spinnaker-fb66c5badd71
+• https://kubernetes.io/
+• https://www.npmjs.com/package/rifi
 ###JS-Node.js
 * [Beginners Guide](http://www.nodebeginner.org/)
 * [Read the Documentation Damnit!](http://nodejs.org/api/)
